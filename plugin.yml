@@ -1,0 +1,11 @@
+// This is the plugin.yml for my plugin
+
+name: Config
+description: Config
+version: 1.0.0
+main: me.bentonjohnson.Config.Config
+
+commands:
+   cfg:
+      usage: /<command>
+      description: this is config!
